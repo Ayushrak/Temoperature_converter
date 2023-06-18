@@ -1,2 +1,2 @@
-# NETFKIX HOME
+# NETFLIX HOME
 task using html css 
